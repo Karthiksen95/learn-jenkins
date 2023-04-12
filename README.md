@@ -1,4 +1,4 @@
-# Jenkins Primer for a Devops Engineer
+# Jenkins for a Devops Engineer
 
 
 * [Chapter 2: Setting up Learning Environment](https://github.com/schoolofdevops/learn-jenkins/blob/master/continuous-delivery/chapters/020_install_jenkins.md)  
